@@ -1,6 +1,10 @@
-<<<<<<< HEAD
-# React-App-Basics
-Basics of React JS
+# Basics of React JS
+- Creating React App using Vite
+- Fundamentals of React
+- Building Components
+- Handling Events
+
+
 =======
 # React + Vite
 
