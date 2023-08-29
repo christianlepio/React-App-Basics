@@ -3,9 +3,10 @@
 - Fundamentals of React
 - Building Components
 - Handling Events
-
-
-=======
+- Styling Components
+- React State & Props
+- Use of React Hooks
+- React Form Handling
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
